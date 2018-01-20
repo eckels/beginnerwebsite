@@ -1,3 +1,36 @@
 body {
+  background-image: url('https://img.memecdn.com/its-peanut-butter-jelly-time_o_456991.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}
 
+h1 {
+  color: red;
+  background-color: blue;
+  font-size: 72px;
+  font-family: cursive;
+}
+
+ul {
+  background-color: green;
+  padding: 15px;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+  background-color: red;
+}
+
+img {
+  width: 300px;
+}
+
+button {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  color: white;
+  border-radius: 50%;
 }
